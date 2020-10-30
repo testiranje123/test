@@ -20,3 +20,6 @@ print("pera")
 print("zdera")
 a=1
 
+g=4
+
+g=4
