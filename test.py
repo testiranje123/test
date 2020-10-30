@@ -16,6 +16,8 @@ for i in range(1,100):
     except:
         print("minja")
         print("jj")
-
+print("pera")
+print("zdera")
+a=1
 
 
