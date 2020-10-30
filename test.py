@@ -19,5 +19,6 @@ for i in range(1,100):
 print("pera")
 print("zdera")
 a=1
+b=3
 
 
