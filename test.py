@@ -10,13 +10,12 @@ for i in range(1,100):
     try:
         a=100/i
         print(a)
-        if i== 15:
-            raise
     except ZeroDivisionError as pp:
         print(pp)
         raise
     except:
         print("minja")
+        print("jj")
 
 
 
