@@ -18,10 +18,3 @@ for i in range(1,100):
         print("jj")
 print("pera")
 print("zdera")
-a=1
-b=3
-c=5
-g=9
-
-h=5
-l=3
